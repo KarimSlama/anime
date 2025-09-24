@@ -53,19 +53,4 @@ lib/
 
 ---
 
-## 🧑‍💻 Contributing
-
-Contributions are welcome! Please follow code standards and document any new features.
-
----
-
-## 📚 Useful Resources
-
-- [Clean Architecture in Flutter](https://medium.com/flutter-community/flutter-clean-architecture-tutorial-8f892e4e1a3)
-- [Flutter Documentation](https://docs.flutter.dev/)
-- [Effective Dart](https://dart.dev/guides/language/effective-dart)
-
-
----
-
 > **Note:** This project is under active development and will be updated regularly with new features and improvements.
