@@ -15,7 +15,7 @@ class AnimeApp extends StatelessWidget {
       title: AnimeStrings.appTitle,
       theme: AnimeTheme.lightTheme,
       debugShowCheckedModeBanner: false,
-      initialRoute: Routes.homeScreen,
+      initialRoute: Routes.layoutNav,
       onGenerateRoute: appRouter.generateRoute,
     );
   }
