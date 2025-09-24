@@ -2,7 +2,7 @@ import 'package:anime/core/helper/extensions.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
-class SparkHelperFunctions {
+class AnimeHelperFunctions {
   static void showSnackBar(String message, context) {
     ScaffoldMessenger.of(context!).showSnackBar(
       SnackBar(content: Text(message)),

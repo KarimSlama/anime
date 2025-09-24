@@ -6,19 +6,19 @@ final animeLightTextTheme = TextTheme(
   headlineLarge: TextStyle(
       fontSize: 32, fontWeight: FontWeight.bold, color: AnimeColors.primary),
   headlineMedium: TextStyle(
-      fontSize: 24, fontWeight: FontWeight.w600, color: AnimeColors.primary),
+      fontSize: 24, fontWeight: FontWeight.bold, color: AnimeColors.primary),
   headlineSmall: TextStyle(
       fontSize: 18, fontWeight: FontWeight.w600, color: AnimeColors.primary),
   titleLarge: TextStyle(
-      fontSize: 16, fontWeight: FontWeight.w600, color: AnimeColors.primary),
+      fontSize: 16, fontWeight: FontWeight.w700, color: AnimeColors.primary),
   titleMedium: TextStyle(
       fontSize: 16, fontWeight: FontWeight.w500, color: AnimeColors.primary),
   titleSmall: TextStyle(
       fontSize: 16, fontWeight: FontWeight.w400, color: AnimeColors.primary),
   bodyLarge: TextStyle(
-      fontSize: 14, fontWeight: FontWeight.w500, color: AnimeColors.primary),
+      fontSize: 14, fontWeight: FontWeight.w600, color: AnimeColors.primary),
   bodyMedium: TextStyle(
-      fontSize: 12, fontWeight: FontWeight.normal, color: AnimeColors.primary),
+      fontSize: 12, fontWeight: FontWeight.w500, color: AnimeColors.primary),
   bodySmall: TextStyle(
       fontSize: 12,
       fontWeight: FontWeight.w500,
