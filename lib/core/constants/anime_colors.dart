@@ -13,4 +13,5 @@ class AnimeColors {
   static const Color lightGrey = Color(0XFFAEADB5);
   static const Color light = Color(0XFFDDE2FF);
   static const Color white = Color.fromARGB(255, 255, 255, 255);
+  static const List<Color> linear = [Color(0XFFD3D6FF), white];
 }
