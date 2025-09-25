@@ -121,7 +121,7 @@ Anime will integrate with a backend via RESTful APIs to fetch and display dynami
 │  │  ├─ assets.gen.dart
 │  │  └─ fonts.gen.dart
 │  └─ main.dart
-
+```
 ---
 
 > **Note:** This project is under active development and will be updated regularly with new features and improvements.
