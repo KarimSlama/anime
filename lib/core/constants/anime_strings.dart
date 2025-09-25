@@ -9,4 +9,6 @@ class AnimeStrings {
   static const String upcoming = 'Upcoming';
   static const String seeAll = 'See All';
   static const String topCharacters = 'Top Characters';
+  static const String preview = 'Preview';
+  static const String watchNow = 'Watch Now';
 }
