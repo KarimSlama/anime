@@ -11,4 +11,15 @@ class AnimeStrings {
   static const String topCharacters = 'Top Characters';
   static const String preview = 'Preview';
   static const String watchNow = 'Watch Now';
+  static const String upgradePlan = 'Upgrade Plan';
+  static const String seamlessAnimeExperienceAdFree =
+      'Seamless Anime\nExperience, Ad-Free';
+  static const String enjoyUnlimitedAnimeStreamingWithoutInterruptions =
+      'Enjoy unlimited anime streaming without interruptions';
+  static const String monthly = 'Monthly';
+  static const String dashMonth = '/Month';
+  static const String includeFamilySharing = 'Include Family Sharing';
+  static const String annaully = 'Annaully';
+  static const String dashYear = '/Year';
+  static const String continue_ = 'Continue';
 }

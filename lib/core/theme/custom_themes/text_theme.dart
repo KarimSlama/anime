@@ -18,7 +18,7 @@ final animeLightTextTheme = TextTheme(
   bodyLarge: TextStyle(
       fontSize: 14, fontWeight: FontWeight.w600, color: AnimeColors.primary),
   bodyMedium: TextStyle(
-      fontSize: 12, fontWeight: FontWeight.w500, color: AnimeColors.primary),
+      fontSize: 12, fontWeight: FontWeight.w700, color: AnimeColors.primary),
   bodySmall: TextStyle(
       fontSize: 12,
       fontWeight: FontWeight.w500,
